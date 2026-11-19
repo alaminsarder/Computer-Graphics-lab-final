@@ -1,13 +1,3 @@
-
-
-## Compile and Run
-
-Open PowerShell in the project folder:
-
-```powershell
-cd "C:\Users\ict\Desktop\Computer graphics"
-```
-
 ### 1. Translation
 
 ```powershell
